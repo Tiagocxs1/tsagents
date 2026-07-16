@@ -1,0 +1,7 @@
+short-title: "API Scaffolding"
+description: "FastAPI, Django, GraphQL project templates"
+type: squad
+tags:
+  - api
+  - scaffold
+created: 2026-07-16

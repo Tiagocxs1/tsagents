@@ -1,0 +1,7 @@
+short-title: "Database Migrations"
+description: "Schema migration, database admin"
+type: squad
+tags:
+  - database
+  - migration
+created: 2026-07-16

@@ -1,0 +1,7 @@
+short-title: "Security Scanning"
+description: "SAST, threat modeling, security audit"
+type: squad
+tags:
+  - security
+  - scanning
+created: 2026-07-16

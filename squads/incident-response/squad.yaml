@@ -1,0 +1,8 @@
+short-title: "Incident Response"
+description: "Debugging, incident response, and error diagnostics"
+type: squad
+tags:
+  - debug
+  - incident
+  - ops
+created: 2026-07-16

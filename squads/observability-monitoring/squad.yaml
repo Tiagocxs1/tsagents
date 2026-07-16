@@ -1,0 +1,7 @@
+short-title: "Observability"
+description: "Monitoring, tracing, metrics, SLOs"
+type: squad
+tags:
+  - monitoring
+  - observability
+created: 2026-07-16

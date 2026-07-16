@@ -1,0 +1,7 @@
+short-title: "Distributed Debugging"
+description: "Distributed tracing, error detection"
+type: squad
+tags:
+  - debug
+  - distributed
+created: 2026-07-16

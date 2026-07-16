@@ -1,0 +1,7 @@
+short-title: "Codebase Cleanup"
+description: "Tech debt, dependency audit, cleanup"
+type: squad
+tags:
+  - cleanup
+  - tech-debt
+created: 2026-07-16

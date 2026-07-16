@@ -1,0 +1,7 @@
+short-title: "Context Management"
+description: "Session context save/restore"
+type: squad
+tags:
+  - context
+  - sessions
+created: 2026-07-16
